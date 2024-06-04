@@ -724,6 +724,5 @@ def get_whole_trial_raster(neuron,
 
     
     
-
-    
-mindistance_mat = get_mindistance_mat()
+if __name__ == "__main__":
+    mindistance_mat = get_mindistance_mat()
