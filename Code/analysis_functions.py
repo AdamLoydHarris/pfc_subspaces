@@ -693,9 +693,6 @@ def get_whole_run(trial, Trial_times, cleaned_coords_):
     return coords_for_run, coords_for_rew
 
 
-
-
-
 def get_whole_trial_raster(neuron, 
                            Neuron_raw, 
                            Trial_times,
